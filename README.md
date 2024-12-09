@@ -7,5 +7,7 @@ Exploratory Data Analysis (EDA) Database Description The dataset consists of eig
 # Roles
 
   Rishi Sahoo - Project Manager and UI/UX Designer: Worked on the User Interface and building the data models to ensure the project satisfies its goals.
+  
   Cade Kolanowski - Product Manager and Release Manager: Built a schedule, and helped in development of the tool
+  
   Michael Stephens - Lead Quality Assurance Analyst: Helped ensure the tool was error free
