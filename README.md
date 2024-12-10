@@ -4,6 +4,12 @@ The vision document for our project aims to build an exceptional model for HVAC 
 
 Exploratory Data Analysis (EDA) Database Description The dataset consists of eight features and one target variable (X1), representing energy efficiency and system conditions. Key columns include: X1: Energy efficiency (target variable). X2-X4: Energy input and related metrics. X5-X8: Operational settings, HVAC modes, tolerances, and scenarios. 
 
+Meeting Dates:
+Monday December 2: 6:00 P.M
+Wednesday December 4: 6:00 P.M
+Saturday December 7: 8:00 P.M
+Sunday December 8: 8:00 P.M
+
 # Roles
 
   Rishi Sahoo - Project Manager and UI/UX Designer: Worked on the User Interface and building the data models to ensure the project satisfies its goals.
